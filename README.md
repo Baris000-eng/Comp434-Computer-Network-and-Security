@@ -4,7 +4,11 @@ The Projects done in COMP434 Computer Network and Security lecture in Spring 202
 Tools Used in Projects:
 
 1-) SeedLab Ubuntu
+
 2-) Wireshark
+
 3-) PCAP library
+
 4-) Python Programming Language
+
 5-) C Programming Language
