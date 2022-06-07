@@ -12,3 +12,5 @@ Tools Used in Projects:
 4-) Python Programming Language
 
 5-) C Programming Language
+
+6-) GDB Debugger, Valgrind Debugger
