@@ -3,7 +3,7 @@ The Projects done in COMP434 Computer Network and Security lecture in Spring 202
 
 Tools Used in Projects:
 
-1-) SeedLab Ubuntu
+1-) SeedLab Ubuntu 20.04
 
 2-) Wireshark
 
