@@ -18,5 +18,7 @@ Tools Used in Projects:
 Project Grades:
 
 Project1: 95/100
+
 Project2: 95/100
+
 Project3: 100/100
