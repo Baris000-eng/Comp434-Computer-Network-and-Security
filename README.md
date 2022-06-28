@@ -14,3 +14,9 @@ Tools Used in Projects:
 5-) C Programming Language
 
 6-) GDB Debugger, Valgrind Debugger
+
+Project Grades:
+
+Project1: 95/100
+Project2: 95/100
+Project3: 100/100
