@@ -17,8 +17,8 @@ Tools Used in Projects:
 
 Project Grades:
 
-Project1: 95/100
+Project1 (Secure E-Mail): 95/100
 
-Project2: 95/100
+Project2 (Format String Vulnerabilities): 95/100
 
-Project3: 100/100
+Project3 (Packet Sniffing and Spoofing): 100/100
