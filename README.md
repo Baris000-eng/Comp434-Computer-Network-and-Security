@@ -25,6 +25,6 @@ Project3 (Packet Sniffing and Spoofing): 100/100
 
 Term Paper Grade:
 
-Term Paper (A scientific paper about vulnerabilities in connected vehicles, defense measures taken against these vulnerabilities, systems of connected vehicles, and so on): 100/100
+Term Paper (A scientific paper about vulnerabilities in connected vehicles, defense measures taken against these vulnerabilities, systems of connected vehicles, and so on): 100/100    (COMP434-Spring22-01-CE_120485507_1084626201_COMP434_TERM_PAPER_CONNECTED_VEHICLES_VERSION_2.pdf)
 
 Term Poster Grade: 90/100
